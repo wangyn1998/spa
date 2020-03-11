@@ -1,0 +1,38 @@
+body{
+    font-family:'微软雅黑';
+    line-height:2em;
+    margin:0;
+    font-size:1.2em
+}
+.main{
+    width:360px;
+    margin:20px auto 0;
+    padding:20px 20px;
+    position:relative
+}
+.main input{
+    font-size:1.2em
+}
+.main #pwd{
+    width:220px;
+    margin:0
+}
+.main .pwd-text{
+    width:185px;
+    height:27px;
+    z-index:-10;
+    border:none;
+    position:relative;
+    left:65px;
+    top:-66px
+}
+.main #eye{
+    width:34px;
+    height:28px;
+    background-size:contain;
+    position:relative;
+    top:-33px;
+    left:251px;
+    z-index:9;
+    background-image:url(https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=474243991,3615038954&fm=15&gp=0.jpg)
+}
