@@ -1,0 +1,39 @@
+.timer-button {
+    width: 160px;
+    height: 70px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: 1.2em;
+}
+body {
+    line-height: 2em;
+}
+
+form {
+    padding-left: 17px;
+    padding-bottom: 10px;
+}
+
+form  input, label, textarea {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+form  input[type="number"] {
+    width: 60px;
+}
+
+form  input[type="text"], textarea {
+    width: 200px;
+}
+
+form textarea {
+    margin-left: 4px;
+}
+
+form div {
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
